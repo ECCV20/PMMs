@@ -1,6 +1,7 @@
 # Prototype Mixture Models
 Anonymous code for ECCV20 "Prototype Mixture Models for Few-shot Semantic Segmentation", paper id 700.
-PMMS architecture:
+
+PMMs architecture:
 ![](img/PMMs.jpg)
 RPMMS architecture:
 ![](img/RPMMs.jpg)
@@ -15,14 +16,14 @@ This code can test the RPMMs and PMMs on Pascal voc dataset.
 - `utils/` contains other dependent code :
 
 ## Dependencies
-python3.7
-pytorch1.0
-torchvision
+python == 3.7,
+pytorch1.0,
 
-pillow
-opencv-python
-pandas
-matplotlib
+torchvision,
+pillow,
+opencv-python,
+pandas,
+matplotlib,
 scikit-image
 
 ## Inference
