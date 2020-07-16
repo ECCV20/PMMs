@@ -1,4 +1,6 @@
 # Prototype Mixture Models
+This code is used for ECCV2020 submission. For full version of PMMs, please refer to [https://github.com/Yang-Bob/PMMs](https://github.com/Yang-Bob/PMMs).
+
 Anonymous code for ECCV20 "Prototype Mixture Models for Few-shot Semantic Segmentation", paper id 700.
 
 PMMs architecture:
